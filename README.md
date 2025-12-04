@@ -21,8 +21,8 @@ The app displays a list of grocery items. Long-press on any item to reveal a con
 
 ## 🎥 Demo
 
-Include your demo video link here:
-**Demo Video:** *<your-demo-link>*
+You can watch the video demonstration of the app here:  
+[Homework15_Demo.mov](./Homework15_Demo.mov)
 
 ---
 
